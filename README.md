@@ -7,7 +7,7 @@
 - 👯 Je recherche un stage de 4 à 6 mois en Développement, Data ou Machine Learning.
 - 🤔 Compétences en C, C++, Python, Node.js, Express, React, PostgreSQL.
 - 💬 Contactez-moi pour des opportunités qui s'alignent avec ce profil.
-- 📫 Comment me joindre : [hugo.martineu@gmail.com]
+- 📫 Comment me joindre : hugo.martineu@gmail.com
 - 😄 Pronoms: Il/Lui
 - ⚡ Fun fact: Je suis un ancien cadre marketing converti en science informatique!
 
