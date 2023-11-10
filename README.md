@@ -10,13 +10,9 @@
 - 📫 Comment me joindre : hugo.martineu@gmail.com
 - ⚡ Fun fact: Je suis un ancien cadre marketing qui se reconvertit en informatique !
 
-## Mes statistiques GitHub
+## Mon site web
 
-![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=hugomartineu&show_icons=true)
-
-## Langues et Outils:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugomartineu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[hugomartineu.com](https://hugomartineu.com/)
 
 ## Réseaux sociaux
 
