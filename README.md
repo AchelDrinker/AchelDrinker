@@ -1,4 +1,4 @@
-# Bonjour, je suis Hugo Martineu! 👋
+# Bonjour, je m'appelle Hugo Martineu! 👋
 
 ## En reconversion professionnelle dans le domaine de l'informatique
 
