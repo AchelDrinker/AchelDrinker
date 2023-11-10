@@ -2,18 +2,18 @@
 
 ## En reconversion professionnelle dans le domaine de l'informatique
 
-- 🔭 J'ai actuellement terminé le tronc commun de l'Ecole 42
-- 🌱 Je me spécialise en Data Science, Machine Learning et en développement à l'École 42.
-- 👯 Je recherche un stage de 4 à 6 mois en Développement, Data ou Machine Learning.
-- 🤔 Compétences en C, C++, Python, Node.js, Express, React, PostgreSQL.
-- 💬 Contactez-moi pour des opportunités qui s'alignent avec ce profil.
-- 📫 Comment me joindre : hugo.martineu@gmail.com
-- ⚡ Fun fact: Je suis un ancien cadre marketing qui se reconvertit en informatique !
+Après une carrière réussie dans le marketing, je plonge dans le monde de la tech avec passion et détermination. Formé à l'École 42, je me suis immergé dans la science des données, le machine learning et le développement logiciel.
 
-## Mon site web
+- 🔭 Je viens de terminer le tronc commun de l'Ecole 42, où j'ai acquis des compétences fondamentales en programmation.
+- 🌱 Spécialisation en cours: Data Science et Machine Learning.
+- 👯 Actuellement à la recherche d'un stage (4-6 mois) où je pourrais apporter ma perspicacité analytique et ma rigueur technique.
+- 🛠️ Compétences: `C`, `C++`, `Python`, `Node.js`, `Express`, `React`, `PostgreSQL`.
+- 🤝 Ouvert aux opportunités, aux collaborations et aux projets innovants.
+- 📫 Me joindre: hugo.martineu@gmail.com
+- ⚡ Fun fact: De cadre marketing à codeur passionné, mon parcours est un témoignage que la soif d'apprendre ne connaît pas de limites.
 
+## Découvrez mon site web:
 [hugomartineu.com](https://hugomartineu.com/)
 
-## Réseaux sociaux
-
+## Connectons-nous:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hugomartineu/)](https://www.linkedin.com/in/hugomartineu/)
