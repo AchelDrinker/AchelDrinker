@@ -1,7 +1,5 @@
 # Bonjour, je suis Hugo Martineu! 👋
 
-## Transitioning to a Tech Virtuoso in Data Science & Software Development
-
 Fort d'une expérience significative en marketing, je me redéfinis en tant que futur expert en informatique, armé de compétences analytiques et d'un esprit innovant, formé à l'École 42.
 
 - 🔭 Ayant achevé le tronc commun de l'École 42, je maîtrise désormais les principes fondamentaux de la programmation.
