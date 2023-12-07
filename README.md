@@ -6,7 +6,7 @@ Fort d'une expérience significative en marketing, je me reconvertis en tant que
 - 🌱 Actuellement spécialisé en Data Science et Machine Learning, je suis à la frontière de la technologie et de l'analyse de données.
 - 👯 En quête d'un stage (4-6 mois) où je pourrai mettre en pratique ma vision stratégique et mon expertise technique.
 - 🛠️ Compétences techniques: `C`, `C++`, `Python`, `Node.js`, `Express`, `React`, `PostgreSQL`.
-- 💼 Expérience professionnelle en marketing et gestion de projets chez GROUPE BADER, et en analyse de données chez AIR FRANCE.
+- 💼 Expérience professionnelle en marketing et gestion de projets chez GROUPE BADER, et en analyse de données chez AIR FRANCE et IKEA.
 - 🤝 Je suis enthousiaste à l'idée de collaborations productives et de projets novateurs.
 - 📫 Contactez-moi : hugo.martineu@gmail.com
 - ⚡ Fun fact: De stratège marketing à passionné de code, ma carrière est une preuve que la curiosité est le moteur de l'apprentissage.
