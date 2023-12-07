@@ -9,7 +9,7 @@ Fort d'une expérience significative en marketing, je me reconvertis en tant que
 - 💼 Expérience professionnelle en marketing et gestion de projets chez GROUPE BADER, et en analyse de données chez AIR FRANCE et IKEA.
 - 🤝 Je suis enthousiaste à l'idée de collaborations productives et de projets novateurs.
 - 📫 Contactez-moi : hugo.martineu@gmail.com
-- ⚡ Fun fact: De stratège marketing à passionné de code, ma carrière est une preuve que la curiosité est le moteur de l'apprentissage.
+- ⚡ De responsable marketing à passionné de code, ma carrière est une preuve que la curiosité est le moteur de l'apprentissage.
 
 ## Explorez mon univers:
 [hugomartineu.com](https://hugomartineu.com/)
