@@ -1,6 +1,6 @@
 # Bonjour, je suis Hugo Martineu! 👋
 
-Fort d'une expérience significative en marketing, je me redéfinis en tant que futur expert en informatique, armé de compétences analytiques et d'un esprit innovant, formé à l'École 42.
+Fort d'une expérience significative en marketing, je me reconvertis en tant que futur expert en informatique, armé de compétences analytiques et d'un esprit innovant, formé à l'École 42.
 
 - 🔭 Ayant achevé le tronc commun de l'École 42, je maîtrise désormais les principes fondamentaux de la programmation.
 - 🌱 Actuellement spécialisé en Data Science et Machine Learning, je suis à la frontière de la technologie et de l'analyse de données.
