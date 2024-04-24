@@ -14,5 +14,5 @@ Fort d'une expérience significative en marketing, je me reconvertis en tant que
 ## Explorez mon univers:
 [hugomartineu.com](https://hugomartineu.com/)
 
-## Tissons des liens professionnels:
+## Contact professionnel:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hugomartineu/)](https://www.linkedin.com/in/hugomartineu/)
