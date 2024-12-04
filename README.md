@@ -1,11 +1,10 @@
-# Bonjour, je suis Hugo Martineu! 👋
+# Salut ! 👋
 
-Fort d'une expérience significative en marketing, je me reconvertis en tant que futur expert en informatique, armé de compétences analytiques et d'un esprit innovant, formé à l'École 42.
+Fort d'une expérience significative en marketing, je me suis reconvertis en tant que développeur, armé de compétences analytiques et d'un esprit innovant et formé à l'École 42.
 
 - 🔭 Ayant achevé le tronc commun de l'École 42, je maîtrise désormais les principes fondamentaux de la programmation.
-- 🌱 Actuellement spécialisé en Data Science et Machine Learning, je suis à la frontière de la technologie et de l'analyse de données.
-- 👯 En quête d'un stage (4-6 mois) où je pourrai mettre en pratique ma vision stratégique et mon expertise technique.
-- 🛠️ Compétences techniques: `C`, `C++`, `Python`, `Node.js`, `Express`, `React`, `PostgreSQL`.
+- 🌱 Actuellement analyste-développeur chez un éditeur d'ERP.
+- 🛠️ Compétences techniques: `C`, `C++`, `Python`, `Node.js`, `Express`, `React`, `PostgreSQL`, `RPG free`.
 - 💼 Expérience professionnelle en marketing et gestion de projets chez GROUPE BADER, et en analyse de données chez AIR FRANCE et IKEA.
 - 🤝 Je suis enthousiaste à l'idée de collaborations productives et de projets novateurs.
 - 📫 Contactez-moi : hugo.martineu@gmail.com
