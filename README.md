@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=github)](https://your-portfolio-url.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AchelDrinker&color=blueviolet)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hugomartineu)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=github)](https://hugomartineu.com)
 
 </div>
 
