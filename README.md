@@ -8,9 +8,9 @@
 
 </div>
 
-## 🧠 Data Scientist & Machine Learning Engineer
+## 🧠 Data Developer & Machine Learning Engineer
 
-I'm a passionate data scientist and machine learning engineer focused on turning data into actionable insights and building intelligent systems. With a strong foundation in statistics, mathematics, and programming, I specialize in developing machine learning models that solve real-world problems.
+I'm passionate by data science and machine learning focused on turning data into actionable insights and building intelligent systems. With a strong foundation in statistics, mathematics, and programming, I specialize in developing machine learning models that solve real-world problems.
 
 ### 🛠️ Tech Stack
 
@@ -54,10 +54,8 @@ A real-time object detection system built with YOLOv5 and deployed as a web serv
 `Python` `PyTorch` `YOLOv5` `OpenCV` `Flask` `Docker`
 
 ### 📚 Education & Certifications
-- **MSc in Data Science** - Your University Name
-- **[TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)** - Google
-- **[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)** - Stanford University & DeepLearning.AI
-- **[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)** - DeepLearning.AI
+- **Specialized in Data Science** - School 42
+
 
 ### 📊 GitHub Stats
 
@@ -76,9 +74,9 @@ A real-time object detection system built with YOLOv5 and deployed as a web serv
 - Large Language Models
 
 ### 📫 How to Reach Me
-- 📧 Email: your.email@example.com
-- 🌐 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/YOUR_USERNAME)
-- 🔗 Portfolio: [your-portfolio-site](https://your-portfolio-url.com)
+- 📧 Email: acheldrinker@gmail.com
+- 🌐 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/hugomartineu)
+- 🔗 Portfolio: [your-portfolio-site](https://hugomartineu.com)
 
 ---
 
