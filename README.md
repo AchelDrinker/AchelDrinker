@@ -35,24 +35,6 @@ I'm passionate by data science and machine learning focused on turning data into
 - **Computer Vision**: Image Classification, Object Detection, Segmentation
 - **MLOps**: Model Deployment, Monitoring, CI/CD for ML
 
-### 🌟 Featured Projects
-
-#### 🔍 [Advanced Customer Segmentation](https://github.com/YOUR_USERNAME/customer-segmentation)
-A machine learning project using unsupervised learning techniques to segment customers based on purchasing behavior.
-`Python` `scikit-learn` `K-means` `DBSCAN` `t-SNE`
-
-#### 🤖 [NLP Text Summarization](https://github.com/YOUR_USERNAME/text-summarization)
-An extractive and abstractive text summarization system using state-of-the-art transformer models.
-`Python` `PyTorch` `Hugging Face` `BERT` `T5`
-
-#### 📈 [Time Series Forecasting Framework](https://github.com/YOUR_USERNAME/timeseries-forecast)
-A comprehensive framework for time series analysis and forecasting with multiple models.
-`Python` `Prophet` `ARIMA` `LSTM` `XGBoost`
-
-#### 🖼️ [Object Detection System](https://github.com/YOUR_USERNAME/object-detection)
-A real-time object detection system built with YOLOv5 and deployed as a web service.
-`Python` `PyTorch` `YOLOv5` `OpenCV` `Flask` `Docker`
-
 ### 📚 Education & Certifications
 - **Specialized in Data Science** - School 42
 
