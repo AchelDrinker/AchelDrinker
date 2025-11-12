@@ -57,13 +57,4 @@ I'm passionate by data science and machine learning focused on turning data into
 
 ### 📫 How to Reach Me
 - 📧 Email: acheldrinker@gmail.com
-- 🌐 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/hugomartineu)
-- 🔗 Portfolio: [your-portfolio-site](https://hugomartineu.com)
-
----
-
-<div align="center">
-  
-  *"Data is the new oil. It's valuable, but if unrefined it cannot really be used."* - Clive Humby
-  
-</div>
+- 🌐 LinkedIn: [Hugo-Martineu](https://linkedin.com/in/hugomartineu)
