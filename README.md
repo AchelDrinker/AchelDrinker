@@ -1,60 +1,55 @@
 # Hugo Martineu
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AchelDrinker\&color=blueviolet)
 [LinkedIn](https://linkedin.com/in/hugomartineu)
-
-</div>
 
 ## Data Developer / Business Intelligence
 
-Développeur orienté données, spécialisé dans la chaîne complète de valorisation des données opérationnelles : extraction depuis ERP, transformation, modélisation, automatisation et restitution décisionnelle. Approche pragmatique, orientée usage métier, fiabilité et maintenabilité.
+Data-oriented developer specialized in the full operational data lifecycle: extraction from ERP systems, transformation, modeling, automation, and decision-oriented delivery. Pragmatic approach focused on business usage, reliability, and long-term maintainability.
 
-Pas de positionnement data science académique ni de machine learning expérimental. Le cœur du travail porte sur des pipelines robustes, des modèles clairs et des outils BI exploitables par des utilisateurs non techniques.
+No academic data science positioning and no experimental machine learning focus. Core work centers on robust pipelines, explicit data models, and BI tools usable by non-technical stakeholders.
 
-## Domaines de compétence
+## Core Competencies
 
-* Extraction et intégration de données (ERP PMI)
-* Conception et maintenance de pipelines ETL
-* Modélisation relationnelle et analytique
-* Automatisation Python
-* Mise à disposition d’indicateurs métier
-* Documentation technique et fonctionnelle
+* Data extraction and integration (PMI ERP)
+* ETL pipeline design and maintenance
+* Relational and analytical data modeling
+* Python automation
+* Business KPI delivery
+* Technical and functional documentation
 
-## Stack technique principale
+## Main Technical Stack
 
-* Python (scripts d’automatisation, traitement de données, génération d’exports)
+* Python (automation scripts, data processing, export generation)
 * PostgreSQL
 * Talend (ETL)
-* Metabase (BI, dashboards, gouvernance des accès)
-* Debian (environnement serveur)
+* Metabase (BI, dashboards, access governance)
+* Debian (server environment)
 * TeamCity (CI/CD)
 * Git
-* LDAP (structuration des rôles et accès BI)
+* LDAP (role and access structuring for BI)
 
-## Pratiques
+## Practices
 
-* Nommage strict et structuration des données
-* Traçabilité des extractions
-* Séparation claire entre logique métier et logique technique
-* Documentation systématique pour reprise et audit
-* Recherche de solutions simples avant solutions complexes
+* Strict naming conventions and data structuring
+* Extraction traceability
+* Clear separation between business logic and technical logic
+* Systematic documentation for handover and audit
+* Preference for simple, robust solutions over complex ones
 
-## Formation
+## Education
 
-* École 42 — spécialisation data / développement
+* School 42 — Data / Development specialization
 
 ## GitHub
 
-Ce dépôt reflète principalement :
+This repository mainly contains:
 
-* des scripts Python utilitaires
-* des outils internes de gestion de données
-* des gabarits et standards d’extraction
-* des expérimentations orientées usage, non démonstratives
+* Python utility scripts
+* Internal data management tools
+* Extraction templates and standards
+* Usage-driven experiments, not demonstrative projects
 
 ## Contact
 
-* Email : [acheldrinker@gmail.com](mailto:acheldrinker@gmail.com)
-* LinkedIn : [https://linkedin.com/in/hugomartineu](https://linkedin.com/in/hugomartineu)
+* Email: [acheldrinker@gmail.com](mailto:acheldrinker@gmail.com)
+* LinkedIn: [https://linkedin.com/in/hugomartineu](https://linkedin.com/in/hugomartineu)
